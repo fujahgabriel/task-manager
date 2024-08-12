@@ -45,9 +45,13 @@ docker run -p 8080:8080 task-manager
 
 ## Running Tests
 
-    ```bash
-    go test ./...
-    ```
+```bash
+go test ./...
+```
+
+## API Documentation
+
+[![Postman](https://img.shields.io/badge/Postman-E97627?style=for-the-badge&logo=Postman&logoColor=white)](https://documenter.getpostman.com/view/2015157/2sA3s4mARm)
 
 ## License
 
